@@ -1,0 +1,38 @@
+* {
+    text-transform: capitalize;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 12.7rem;
+}
+
+li {
+    list-style: none;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    color: #505F98;
+    height: 1.5rem;
+}
+
+.container .left ul {
+    display: flex;
+    gap: 3.7rem;
+}
+.container .center{
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
+.right button {
+width: 16rem;
+height: 1.6rem;
+background-color: #111B47;
+color: #FFFFFF;
+}
