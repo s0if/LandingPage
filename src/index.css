@@ -16,7 +16,7 @@
 .header {
     margin: 5rem 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     font-family: roboto;
     align-items: center;
     gap: 2rem;
