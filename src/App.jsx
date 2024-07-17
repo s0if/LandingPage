@@ -1,10 +1,13 @@
-import React from 'react'
-import Navbar from './components/Navbar/Navbar'
+// import React from 'react'
+
+import Header from './components/Header/Header.jsx'
+import Navbar from './components/Navbar/Navbar.jsx'
 
 function App() {
   return (
     <div>
-      <Navbar/>
+      <Navbar />
+      <Header/>
     </div>
   )
 }

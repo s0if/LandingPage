@@ -1,0 +1,49 @@
+.header {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: space-around;
+    font-family: roboto;
+    align-items: center;
+}
+
+.container .first {
+    width: 33.7rem;
+    height: 26.3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.container .first h1 {
+    color: #091133;
+}
+
+.container .first p {
+    color: #505F98;
+}
+.button{ 
+    display: flex;
+    gap: 1.8rem;
+}
+button{
+    width: 11.8rem;
+    height: 2.25rem;
+    padding: 0 0.3rem;
+    border-radius: 0.1rem;
+}
+.firstButton{
+    background-color: #111B47;
+    color: #FFFFFF;
+}
+.secondButton{
+    color: #091133;
+
+}
+.second{
+    width:  30.3rem;
+    height: 48.75rem;
+}
+
+.second img{
+    width: 100%;
+}
