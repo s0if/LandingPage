@@ -1,0 +1,23 @@
+.first .cards {
+    display: flex;
+    padding: 2rem 0 0;
+}
+
+.first .cards h2 {
+    color: #091133;
+}
+
+.first .cards p {
+    color: #5D6970;
+}
+
+.first .cards .card {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.first .cards .card img {
+    width: 2.5rem;
+
+}
