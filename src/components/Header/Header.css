@@ -30,6 +30,11 @@ button {
     border-radius: 0.1rem;
 }
 
+button:hover {
+    /* background-color: #000; */
+    transform: scale(1.1);
+}
+
 .firstButton {
     background-color: #111B47;
     color: #FFFFFF;
